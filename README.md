@@ -31,7 +31,9 @@
 
 <div >
  <img align="center" height="150rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencs&langs_count=5&theme=midnight-purple">
- 
+
+ <br>
+ <br>
  
  <img align="center" height="150rem"   src="https://github-readme-stats.vercel.app/api/?username=gabrielalencs&count_private=true&theme=midnight-purple&showicons=true">
 </div>
