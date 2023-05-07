@@ -26,13 +26,14 @@ Olá, Sou o **Gabriel de Alencar**, um estudante de desenvolvimento web e apaixo
   <img align="center" alt="Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <img align="right" alt="Alencar-pic" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/127636935/236652896-1072886f-1390-4075-baaa-ba6fd5d439ab.png">
+   <img align="right" alt="Alencar-pic" height="500" style="border-radius:50px;" src="https://user-images.githubusercontent.com/127636935/236652896-1072886f-1390-4075-baaa-ba6fd5d439ab.png">
 </div>
 
 <br>
 <br>
 
 <div >
- <img align="center" height="230rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencs&langs_count=5&theme=midnight-purple" >
- <img align="center" height="230rem"  src="https://github-readme-stats.vercel.app/api/?username=gabrielalencs&count_private=true&theme=midnight-purple&showicons=true" >
+ <img align="center" height="170rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencs&langs_count=5&theme=midnight-purple" >
+  <br>
+ <img align="center" height="170rem"   src="https://github-readme-stats.vercel.app/api/?username=gabrielalencs&count_private=true&theme=midnight-purple&showicons=true" >
 </div>
