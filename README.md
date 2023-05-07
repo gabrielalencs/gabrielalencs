@@ -23,7 +23,7 @@
   <img align="center" alt="Alencar-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Alencar-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Alencar-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <img align="right" alt="Alencar-pic" height="500" style="border-radius:50px;" src="https://user-images.githubusercontent.com/127636935/236653090-5e97ee34-9ebf-47ff-9345-9f6fa6b6c716.jpg">
+   <img align="right" alt="Alencar-pic" height="450" style="border-radius:50px;" src="https://user-images.githubusercontent.com/127636935/236653090-5e97ee34-9ebf-47ff-9345-9f6fa6b6c716.jpg">
 </div>
 
 <br>
