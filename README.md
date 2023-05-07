@@ -26,7 +26,7 @@ Olá, Sou o **Gabriel de Alencar**, um estudante de desenvolvimento web e apaixo
   <img align="center" alt="Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <img align="right" alt="Alencar-pic" height="500" style="border-radius:50px;" src="https://user-images.githubusercontent.com/127636935/236652896-1072886f-1390-4075-baaa-ba6fd5d439ab.png">
+   <img align="right" alt="Alencar-pic" height="500" style="border-radius:50px;" src="https://user-images.githubusercontent.com/127636935/236653090-5e97ee34-9ebf-47ff-9345-9f6fa6b6c716.jpg">
 </div>
 
 <br>
