@@ -1,22 +1,19 @@
-## 👋🏼 Seja bem Vindo ao meu perfil no Github!
+# 👋🏼 Seja bem Vindo ao meu perfil no Github!
 
-Olá, Sou o **Gabriel de Alencar**, um estudante de desenvolvimento web e apaixonado por programação ❤ 
+ Olá, sou o **Gabriel de Alencar**, um estudante de desenvolvimento web e apaixonado por programação ❤ 
 <br>
 
 <details>
-  <summary>🧑🏻 Mais sobre mim</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
+  <summary>Mais sobre mim 🧑🏻</summary>
+  
+- 🚀 Me identifiquei muito com a programação porque gosto de me sentir <br> desafiado
+  a aprender cada vez mais
+  
+- 👨🏻‍💻 Faço curso técnico de desenvolvimento de sistemas em uma das etecs de sp
+  
+- 💻 Minha paixão é estudar e aprender novos conceitos e tecnologias
+  
+- 🗓 Estudo programação a 4 meses
 
 </details>
 
