@@ -13,7 +13,7 @@
   
 - 💻 Minha paixão é estudar e aprender novos conceitos e tecnologias
   
-- 🗓 Estudo programação a 4 meses
+- 🗓 Estudo programação a 11 meses
 
 </details>
 
