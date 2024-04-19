@@ -1,6 +1,6 @@
 # 👋🏼 Seja bem Vindo ao meu perfil no Github!
 
- Olá, sou o **Gabriel de Alencar**, um estudante de desenvolvimento web e apaixonado por programação ❤ 
+ Olá, sou o **Gabriel de Alencar** um estudante de desenvolvimento web e apaixonado por programação ❤ 
 <br>
 
 <details>
