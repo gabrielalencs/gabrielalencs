@@ -28,4 +28,5 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="30" alt="boostrap logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="tailwind logo"  />
 </div>
