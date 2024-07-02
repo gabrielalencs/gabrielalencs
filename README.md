@@ -1,4 +1,4 @@
-<img align="right" alt="" height="300px" src="./me.png">
+<img align="right" alt="" height="300px" src="./me.jpg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0000CD&random=false&width=500&height=40&lines=Olá,+eu+sou+o+Gabriel+de+Alencar!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
