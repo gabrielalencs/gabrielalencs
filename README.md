@@ -8,7 +8,7 @@
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0000CD&color:FFF)](mailto:gabrieldealencar.dev@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0000CD&color:FFF)](mailto:gabrieldealencar.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000CD&color:FFF)](https://www.linkedin.com/in/gabrielalencarr)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000CD&color:FFF)](https://www.instagram.com/alencsblz/)
 
