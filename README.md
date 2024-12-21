@@ -29,7 +29,10 @@
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind logo"  />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="50" alt="tailwind logo"  />
+  <br />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="8" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" height="50" alt="tailwind logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" height="50" alt="styled component logo"  />
 </div>
